@@ -13,15 +13,15 @@
             "id": "https://gabrielleanastasia.github.io/testing-post.html",
             "url": "https://gabrielleanastasia.github.io/testing-post.html",
             "title": "Testing Post",
-            "summary": " “Happiness cannot be traveled to owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace, and gratitude.” – Denis Waitley",
-            "content_html": "<p> </p>\n<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  style=\"outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;\" src=\"https://gabrielleanastasia.github.io/media/posts/1/skies.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-xs.jpg 300w ,https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-sm.jpg 480w ,https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-md.jpg 768w ,https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-lg.jpg 1024w ,https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-xl.jpg 1360w ,https://gabrielleanastasia.github.io/media/posts/1/responsive/skies-2xl.jpg 1600w\"  alt=\"\" width=\"300\" height=\"300\"></figure>\n<p>“Happiness cannot be traveled to owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace, and gratitude.” – Denis Waitley</p>",
+            "summary": "blah",
+            "content_html": "<p>blah</p>",
             "author": {
                 "name": "Gabrielle Anastasia"
             },
             "tags": [
             ],
-            "date_published": "2021-02-24T11:44:52-06:00",
-            "date_modified": "2021-02-24T12:37:58-06:00"
+            "date_published": "2021-02-24T13:03:00-06:00",
+            "date_modified": "2021-02-24T13:03:00-06:00"
         }
     ]
 }
